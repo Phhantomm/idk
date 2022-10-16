@@ -52,4 +52,4 @@ open class Fraction(var numerator: Int, var denominator: Int): FractionMaths {
     }
 }
 
-//შეკვეცაზე გავიჭედე
+//შეკვეცაზე გავიჭედე ამიტომაც მიმატება ასე დავწერე ¯\_(ツ)_/¯
